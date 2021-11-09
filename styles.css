@@ -1,0 +1,43 @@
+#section1 {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:#E6E6E6;
+    width:100vw;
+    height:100vh;
+}
+#section2 {
+    background-color:#CCCCCC;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100vw;
+    height:100vh;
+}
+#button1 {background-color: #CCCCCC;
+    border:0;
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    right: 50px;
+    bottom: 50px;
+}
+#button2 {background-color: #CCCCCC;
+    border:0;
+    display:block;
+    width: 200px;
+    height: 60px;
+    position:absolute;
+    bottom:40px;
+    right: 40px;
+
+}
+#button3 {background-color: #E6E6E6;
+    border:0;
+    display:block;
+    width: 200px;
+    height: 60px;
+    position:relative;
+    bottom:40px;
+   }
